@@ -1,0 +1,35 @@
+
+> fluxo-agil@0.0.1 start
+> nest start
+
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mServeStaticModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmCoreModule dependencies initialized[39m[38;5;3m +66ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUsersModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mShiftsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mExchangesModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/api}:[39m[38;5;3m +4ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api, GET} route[39m[38;5;3m +4ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUsersController {/api/users}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mShiftsController {/api/shifts}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/shifts, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/shifts, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/shifts/critical, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/shifts/user/:userId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/shifts/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/shifts/:id/availableForExchange, PUT} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mExchangesController {/api/exchanges}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/exchanges, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/exchanges/pending, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/exchanges/:id/approve, PUT} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/exchanges/:id/reject, PUT} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 81658  - [39m04/17/2026, 9:35:10 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +4ms[39m
